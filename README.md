@@ -21,7 +21,7 @@
 
 ###
 
-<p dir="auto">📫 Contact me on <a href="https://www.fiverr.com/mdayubali88" rel="nofollow">Fiverr</a> | <a href="https://www.upwork.com/freelancers/~0155ab31ff71acc422?viewMode=1" rel="nofollow">Upwork</a><br><br></p>
+<p dir="auto">📫 Contact me on <a href="https://www.fiverr.com/joliakter72" rel="nofollow">Fiverr</a> | <a href="https://www.upwork.com/freelancers/~0155ab31ff71acc422?viewMode=1" rel="nofollow">Upwork</a><br><br></p>
 
 ###
 
