@@ -15,7 +15,7 @@
 <p> I am results-driven, helping e-commerce brands, agencies, and SaaS businesses scale through stunning Shopify stores and intelligent backend automation. </p>
 
 
-## 🛍 Shopify & E-Commerce Expertise:
+### 🛍 Shopify & E-Commerce Expertise:
 
 <p> - Dropshipping Store Design: End-to-end setup, niche selection, supplier integration (AliExpress, DSers, CJ Dropshipping), and conversion-optimized product pages. </p>
 
@@ -29,7 +29,7 @@
  <p> - n8n Workflow: Custom server-side automations connecting CRMs, payment gateways, and email via webhooks, including real-time syncing, lead scoring, automated reporting, and complex data mapping. </p>
 
 
-## 💻 Core Technical Skills:
+### 💻 Core Technical Skills:
 
 <p> - Front-End: HTML5, CSS3, React, JavaScript, Liquid code and jQuery for responsive, interactive interfaces. </p>
 
