@@ -22,7 +22,7 @@
  <p> - Landing Page Development: High-impact pages using PageFly, GemPages, Replo, and Shogun for rapid A/B testing, dynamic showcases, and seamless mobile responsiveness. </p>
 
 
-## ⚙ Advanced Automation (GHL & n8n):
+### ⚙ Advanced Automation (GHL & n8n):
 
 <p> - GoHighLevel (GHL): Full sales funnels (opt-in, upsell/downsell), email/SMS automation (drips, triggers, reminders, cart recovery), and sub-account management. </p>
 
